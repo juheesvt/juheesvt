@@ -14,7 +14,7 @@
 
 #### AWARD 🏆
 - 2019 FIRA RoboWorldCup - Huro Kids size - basketball 🥈 Second Prize
-- 2019 International Competition of Autonomous of Running Intelligent Robot 🥈 Second Prize
+- [2019 International Competition of Autonomous of Running Intelligent Robot 🥈 Second Prize](https://m.kookmin.ac.kr/comm/board/user/be8e117863cfd580d7ed5931a799207c/view.do?dataSeq=1069743)
 - 2021 IEMEK Fall Academic Conference Best Paper
 
 
