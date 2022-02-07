@@ -10,7 +10,7 @@
 
 #### My Career 👩🏻‍💻 
 - 🤖 Machine Intelligence Lab, KMU, Undergraduate Research Student (2020.01 ~ 2021.06)
-- 🖥️ WSUG, Web Developer (2020.06 ~ ing)
+- 🖥️ WSUG, Web Developer (2021.09 ~ 2021.01)
 
 #### AWARD 🏆
 - 2019 FIRA RoboWorldCup - Huro Kids size - basketball 🥈 Second Prize
