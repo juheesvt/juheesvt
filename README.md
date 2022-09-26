@@ -18,12 +18,4 @@
 - 2021 IEMEK Fall Academic Conference Best Paper
 
 
-
-<!--
-
-#### Tech
-Python C/C++ JAVA HTML5 CSS3 JS
-MongoDB MySQL OpenCV MFC WordPress
-Docker AWS 
-Super Resolution Classification Object Detection 
--->
+[more](https://www.notion.so/juheesvt/About-Me-0a01e51251f54ed283a9eae0c9906994) 
