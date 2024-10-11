@@ -26,7 +26,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=juheesvt&show_icons=true&theme=solarized-light">
 
 <br/>
 
