@@ -14,22 +14,24 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-[juppi's resume](https://www.notion.so/juheesvt/About-Me-0a01e51251f54ed283a9eae0c9906994)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=juheesvt&show_icons=true&theme=solarized-light">
+
+<br/>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnglk62@gmail.com)](mailto:wnglk62@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-444444?style=flat-square&logo=notion&link=https://www.notion.so/juheesvt/About-Me-0a01e51251f54ed283a9eae0c9906994)](https://www.notion.so/juheesvt/About-Me-0a01e51251f54ed283a9eae0c9906994) 
+
 
 
